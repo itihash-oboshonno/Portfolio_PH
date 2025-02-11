@@ -4,6 +4,8 @@
     "name": "The Guide",
     "image": "https://i.ibb.co.com/S7xqQ9Ws/the-guide-logo-mid-coloured.webp",
     "description": "A fullstack Blog website project.",
+    "challenges": "Implemented JWT for security.",
+    "future": "I have plans to upgrade the visual design of this website along with bringing newsletter functionality to it.",
     "liveLink": "https://theguide-001.web.app/",
     "githubLink": "https://github.com/itihash-oboshonno/The-Guide-Front"
   },
@@ -12,6 +14,8 @@
     "name": "Chill Gamer",
     "image": "https://i.ibb.co.com/qY3Lv4Hd/chill-gamer-logo-small.png",
     "description": "A fullstack Game Review website project.",
+    "challenges": "Got introduced to MongoDB & set up personal backend.",
+    "future": "Managing roles through an admin would be a great advancement of this project in my opinion. I also want to upgrade the look of it.",
     "liveLink": "https://chill-gamer-7b19b.web.app/",
     "githubLink": "https://github.com/itihash-oboshonno/Chill-Gamer-Front"
   },
@@ -20,6 +24,8 @@
     "name": "Discount Pro",
     "image": "https://i.ibb.co.com/Hpxxbdpg/Discount-Pro-Logo-Blue.png",
     "description": "A frontend Coupon Provider website project.",
+    "challenges": "Implemented full Firebase authentication for the first time.",
+    "future": "I'd like to implement JWT for security and backend functionality to this project.",
     "liveLink": "https://discount-pro-itihash-oboshonno.netlify.app/",
     "githubLink": "https://github.com/itihash-oboshonno/Chill-Gamer-Front"
   }
