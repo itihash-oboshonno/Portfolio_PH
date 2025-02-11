@@ -5,7 +5,7 @@ const Project = () => {
   const { id } = useParams();
   const [projects, setProjects] = useState([]);
   useEffect(() => {
-    fetch("../../public/projects.json")
+    fetch("/projects.json")
       .then((res) => res.json())
       .then((data) => setProjects(data));
   }, []);
