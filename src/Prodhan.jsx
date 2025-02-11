@@ -7,7 +7,7 @@ const Prodhan = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <div>
+            <div className='min-h-[calc(100vh-120px)]'>
                 <Outlet></Outlet>
             </div>
             <Footer></Footer>

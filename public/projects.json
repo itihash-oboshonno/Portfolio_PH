@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "The Guide",
+    "image": "https://i.ibb.co.com/S7xqQ9Ws/the-guide-logo-mid-coloured.webp",
+    "description": "A fullstack Blog website project.",
+    "liveLink": "https://theguide-001.web.app/",
+    "githubLink": "https://github.com/itihash-oboshonno/The-Guide-Front"
+  },
+  {
+    "id": 2,
+    "name": "Chill Gamer",
+    "image": "https://i.ibb.co.com/qY3Lv4Hd/chill-gamer-logo-small.png",
+    "description": "A fullstack Game Review website project.",
+    "liveLink": "https://chill-gamer-7b19b.web.app/",
+    "githubLink": "https://github.com/itihash-oboshonno/Chill-Gamer-Front"
+  },
+  {
+    "id": 3,
+    "name": "Discount Pro",
+    "image": "https://i.ibb.co.com/Hpxxbdpg/Discount-Pro-Logo-Blue.png",
+    "description": "A frontend Coupon Provider website project.",
+    "liveLink": "https://discount-pro-itihash-oboshonno.netlify.app/",
+    "githubLink": "https://github.com/itihash-oboshonno/Chill-Gamer-Front"
+  }
+]

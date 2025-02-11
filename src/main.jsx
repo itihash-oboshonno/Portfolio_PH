@@ -8,6 +8,7 @@ import './index.css'
 import Prodhan from './Prodhan';
 import Home from './components/Home';
 import ErrorPage from './components/ErrorPage';
+import Project from './components/Project';
 
 const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+      },
+      {
+        path: '/project/:id',
+        element: <Project/>,
       }
     ]
   },
